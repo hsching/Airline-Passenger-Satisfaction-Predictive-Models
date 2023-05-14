@@ -1,0 +1,7 @@
+echo "# Airline-Passenger-Satisfaction-Predictive-Models" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/hsching/Airline-Passenger-Satisfaction-Predictive-Models.git
+git push -u origin main
